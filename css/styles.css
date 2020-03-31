@@ -17,8 +17,8 @@ body {
   .jumbotron {
     margin: 0;
     padding: 30px;
-    background-image: linear-gradient(to right, #5637dd, #3046c5, #60106b);
-    color: white; }
+    background-image: linear-gradient(to right, black,yellow,black);
+    color:black; }
     .jumbotron h2 {
       color: white; }
   
